@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AVPuttur/JS-NIC-VALIDATOR/issues"
   },
-  "homepage": "https://github.com/AVPuttur/JS-NIC-VALIDATOR#readme"
+  "homepage": "https://github.com/AVPuttur/JS-NIC-VALIDATOR#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
