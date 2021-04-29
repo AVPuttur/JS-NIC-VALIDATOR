@@ -53,5 +53,3 @@ function regexExp(value, nic) {
         ssName("validate-nic-no")[0].style.borderColor = "red";
     }
 }
-
-module.exports.validateNICMRU = validateNICMRU;
