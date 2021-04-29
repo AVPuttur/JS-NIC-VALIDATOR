@@ -1,4 +1,4 @@
-# JS-NIC-VALIDATOR
+# JS-NIC-VALIDATION (Mauritius)
 
 # What is this?
 
