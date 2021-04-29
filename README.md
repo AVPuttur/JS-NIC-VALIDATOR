@@ -6,18 +6,20 @@ A JS library that validate NIC for Mauritius.
 
 # Installation
 
-`npm i nic-validation-js-library --save`
+Add below script tag to your project 
+
+`<script src="https://cdn.jsdelivr.net/gh/AVPuttur/JS-NIC-VALIDATOR@master/app.js"></script>`
 
 Then...
 
-...
+Add these classes to their respective input field
 
-import { nic-validation-js-library } from 'nic-validation-js-library';
+1. Add this class `validate-nic-lname` to the input field where the user will enter its surname.
+2. Add this class `validate-nic-dob` to the date field where the user will enter his/her Date Of Birth.
+3. Add this class `validate-nic-no` to the input field where the user will enter NIC no.
+4. Add this class `validate-nic-mru` to the button to validate before submission.  
 
-validateNICMRU({
-  validate_NIC: true
-}); 
-
+And then See the Magic.! :)
 
 # Usage
  
