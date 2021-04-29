@@ -6,7 +6,7 @@ A JS library that validate NIC for Mauritius.
 
 # Installation
 
-'npm i nic-validation-js-library --save'
+`npm i nic-validation-js-library --save`
 
 Then...
 
