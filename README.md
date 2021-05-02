@@ -8,7 +8,7 @@ A JS library that validate NIC for Mauritius.
 
 Add below script tag to your project 
 
-`<script src="https://cdn.jsdelivr.net/gh/AVPuttur/JS-NIC-VALIDATOR/nic-validate.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/AVPuttur/JS-NIC-VALIDATOR/nic-validate.min.js"></script>`
 
 Then...
 
